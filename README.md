@@ -12,7 +12,7 @@ sudo apt install docker.io -y
 ```
 To check the status of the docker
 ```
-sudo apt status docker
+sudo systemctl status docker
 ```
 ![image](https://github.com/sowmiya429/docker_demo/assets/80743760/595b0051-468e-4691-9385-c8b36e98988c)
 To check the docker installed or not
@@ -32,6 +32,14 @@ sudo usermod -aG docker ubuntu
 After this still we got the same error
 ![image](https://github.com/sowmiya429/docker_demo/assets/80743760/9ebbbbd0-08bd-4ab0-a951-42d0fe167ed0)
 Now, needs to logout and login the system again
-![Uploading image.png…]()
+![image](https://github.com/sowmiya429/docker_demo/assets/80743760/9a5f26e7-de0f-42d8-9a8b-f099722f4aa8)
+clone the git repo
+![image](https://github.com/sowmiya429/docker_demo/assets/80743760/6e275fd7-ccfd-49a2-8034-d2e09cf66739)
+login to the docker hub
+![image](https://github.com/sowmiya429/docker_demo/assets/80743760/0865f719-bfc2-4d97-bc19-f623b3cfc6bb)
+```
+username: sowmi16
+pass: Sherlock16&
+```
 
 
